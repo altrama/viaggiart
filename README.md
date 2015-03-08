@@ -1,2 +1,2 @@
-# viaggiart
-Viaggiart  - Open Source - Projects
+# ViaggiArt
+ViaggiArt  - Open Source - Projects
